@@ -1,0 +1,20 @@
+{
+  "name": "my-Github-action",
+  "version": "1.0.0",
+  "description": "Hello World using Github Action Feature",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaych22/my-Github-action.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kaych22/my-Github-action/issues"
+  },
+  "homepage": "https://github.com/kaych22/my-Github-action#readme"
+}
